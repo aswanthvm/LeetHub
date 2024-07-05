@@ -27,10 +27,15 @@
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/aswanthaswnk/LeetHub/tree/master/0125-valid-palindrome) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/aswanthaswnk/LeetHub/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3412-permutation-difference-between-two-strings](https://github.com/aswanthaswnk/LeetHub/tree/master/3412-permutation-difference-between-two-strings) |
 ## Simulation
 |  |
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/aswanthaswnk/LeetHub/tree/master/2137-final-value-of-variable-after-performing-operations) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/aswanthaswnk/LeetHub/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
