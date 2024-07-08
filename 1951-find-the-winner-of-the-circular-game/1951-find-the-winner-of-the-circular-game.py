@@ -3,6 +3,6 @@ class Solution:
         winner = 0
         for i in range(1, n + 1):
             winner = (k + winner) % i
-            print(winner + 1)  # This will print the winner in the i-person case
+            print(winner + 1)  
         return winner + 1
         
