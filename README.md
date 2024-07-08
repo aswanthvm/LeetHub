@@ -6,6 +6,7 @@
 | ------- |
 | [0136-single-number](https://github.com/aswanthaswnk/LeetHub/tree/master/0136-single-number) |
 | [0229-majority-element-ii](https://github.com/aswanthaswnk/LeetHub/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/aswanthaswnk/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [1635-number-of-good-pairs](https://github.com/aswanthaswnk/LeetHub/tree/master/1635-number-of-good-pairs) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/aswanthaswnk/LeetHub/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/aswanthaswnk/LeetHub/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -17,6 +18,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/aswanthaswnk/LeetHub/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/aswanthaswnk/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [1635-number-of-good-pairs](https://github.com/aswanthaswnk/LeetHub/tree/master/1635-number-of-good-pairs) |
 | [3412-permutation-difference-between-two-strings](https://github.com/aswanthaswnk/LeetHub/tree/master/3412-permutation-difference-between-two-strings) |
 ## Math
@@ -28,6 +30,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/aswanthaswnk/LeetHub/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/aswanthaswnk/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [1635-number-of-good-pairs](https://github.com/aswanthaswnk/LeetHub/tree/master/1635-number-of-good-pairs) |
 ## String
 |  |
@@ -48,6 +51,7 @@
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/aswanthaswnk/LeetHub/tree/master/0229-majority-element-ii) |
+| [0347-top-k-frequent-elements](https://github.com/aswanthaswnk/LeetHub/tree/master/0347-top-k-frequent-elements) |
 ## Recursion
 |  |
 | ------- |
@@ -56,4 +60,20 @@
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/aswanthaswnk/LeetHub/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/aswanthaswnk/LeetHub/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/aswanthaswnk/LeetHub/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/aswanthaswnk/LeetHub/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/aswanthaswnk/LeetHub/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
