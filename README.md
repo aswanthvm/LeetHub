@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aswanthaswnk/LeetHub/tree/master/0011-container-with-most-water) |
 | [0136-single-number](https://github.com/aswanthaswnk/LeetHub/tree/master/0136-single-number) |
 | [0229-majority-element-ii](https://github.com/aswanthaswnk/LeetHub/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/aswanthaswnk/LeetHub/tree/master/0347-top-k-frequent-elements) |
@@ -47,6 +48,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/aswanthaswnk/LeetHub/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/aswanthaswnk/LeetHub/tree/master/0125-valid-palindrome) |
 ## Sorting
 |  |
@@ -81,4 +83,8 @@
 |  |
 | ------- |
 | [1791-richest-customer-wealth](https://github.com/aswanthaswnk/LeetHub/tree/master/1791-richest-customer-wealth) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/aswanthaswnk/LeetHub/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
