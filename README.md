@@ -12,6 +12,7 @@
 | [1791-richest-customer-wealth](https://github.com/aswanthaswnk/LeetHub/tree/master/1791-richest-customer-wealth) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/aswanthaswnk/LeetHub/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/aswanthaswnk/LeetHub/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/aswanthaswnk/LeetHub/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/aswanthaswnk/LeetHub/tree/master/0125-valid-palindrome) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/aswanthaswnk/LeetHub/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/aswanthaswnk/LeetHub/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3412-permutation-difference-between-two-strings](https://github.com/aswanthaswnk/LeetHub/tree/master/3412-permutation-difference-between-two-strings) |
 ## Simulation
 |  |
@@ -50,6 +52,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/aswanthaswnk/LeetHub/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/aswanthaswnk/LeetHub/tree/master/0125-valid-palindrome) |
+| [2231-find-first-palindromic-string-in-the-array](https://github.com/aswanthaswnk/LeetHub/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Sorting
 |  |
 | ------- |
