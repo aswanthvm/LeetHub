@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aswanthaswnk/LeetHub/tree/master/0011-container-with-most-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/aswanthaswnk/LeetHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/aswanthaswnk/LeetHub/tree/master/0136-single-number) |
 | [0229-majority-element-ii](https://github.com/aswanthaswnk/LeetHub/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/aswanthaswnk/LeetHub/tree/master/0347-top-k-frequent-elements) |
@@ -90,4 +91,8 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aswanthaswnk/LeetHub/tree/master/0011-container-with-most-water) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/aswanthaswnk/LeetHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
