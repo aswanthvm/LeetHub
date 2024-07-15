@@ -31,6 +31,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/aswanthaswnk/LeetHub/tree/master/0066-plus-one) |
+| [0412-fizz-buzz](https://github.com/aswanthaswnk/LeetHub/tree/master/0412-fizz-buzz) |
 | [1635-number-of-good-pairs](https://github.com/aswanthaswnk/LeetHub/tree/master/1635-number-of-good-pairs) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/aswanthaswnk/LeetHub/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Counting
@@ -44,12 +45,14 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/aswanthaswnk/LeetHub/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/aswanthaswnk/LeetHub/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/aswanthaswnk/LeetHub/tree/master/0412-fizz-buzz) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/aswanthaswnk/LeetHub/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/aswanthaswnk/LeetHub/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3412-permutation-difference-between-two-strings](https://github.com/aswanthaswnk/LeetHub/tree/master/3412-permutation-difference-between-two-strings) |
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/aswanthaswnk/LeetHub/tree/master/0412-fizz-buzz) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/aswanthaswnk/LeetHub/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/aswanthaswnk/LeetHub/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Two Pointers
