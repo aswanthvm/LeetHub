@@ -17,6 +17,7 @@
 | [2058-concatenation-of-array](https://github.com/aswanthaswnk/LeetHub/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/aswanthaswnk/LeetHub/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/aswanthaswnk/LeetHub/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [3469-maximum-height-of-a-triangle](https://github.com/aswanthaswnk/LeetHub/tree/master/3469-maximum-height-of-a-triangle) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -111,4 +112,8 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aswanthaswnk/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Enumeration
+|  |
+| ------- |
+| [3469-maximum-height-of-a-triangle](https://github.com/aswanthaswnk/LeetHub/tree/master/3469-maximum-height-of-a-triangle) |
 <!---LeetCode Topics End-->
