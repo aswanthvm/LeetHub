@@ -45,6 +45,7 @@
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aswanthaswnk/LeetHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/aswanthaswnk/LeetHub/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/aswanthaswnk/LeetHub/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/aswanthaswnk/LeetHub/tree/master/0412-fizz-buzz) |
@@ -62,6 +63,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/aswanthaswnk/LeetHub/tree/master/0011-container-with-most-water) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aswanthaswnk/LeetHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/aswanthaswnk/LeetHub/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aswanthaswnk/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0392-is-subsequence](https://github.com/aswanthaswnk/LeetHub/tree/master/0392-is-subsequence) |
@@ -116,4 +118,8 @@
 |  |
 | ------- |
 | [3469-maximum-height-of-a-triangle](https://github.com/aswanthaswnk/LeetHub/tree/master/3469-maximum-height-of-a-triangle) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aswanthaswnk/LeetHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
