@@ -21,6 +21,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/aswanthaswnk/LeetHub/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/aswanthaswnk/LeetHub/tree/master/0136-single-number) |
 ## Hash Table
 |  |
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/aswanthaswnk/LeetHub/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/aswanthaswnk/LeetHub/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/aswanthaswnk/LeetHub/tree/master/0412-fizz-buzz) |
 | [1635-number-of-good-pairs](https://github.com/aswanthaswnk/LeetHub/tree/master/1635-number-of-good-pairs) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/aswanthaswnk/LeetHub/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -47,6 +49,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aswanthaswnk/LeetHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/aswanthaswnk/LeetHub/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/aswanthaswnk/LeetHub/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/aswanthaswnk/LeetHub/tree/master/0125-valid-palindrome) |
 | [0392-is-subsequence](https://github.com/aswanthaswnk/LeetHub/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/aswanthaswnk/LeetHub/tree/master/0412-fizz-buzz) |
@@ -56,6 +59,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/aswanthaswnk/LeetHub/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/aswanthaswnk/LeetHub/tree/master/0412-fizz-buzz) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/aswanthaswnk/LeetHub/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/aswanthaswnk/LeetHub/tree/master/2058-concatenation-of-array) |
