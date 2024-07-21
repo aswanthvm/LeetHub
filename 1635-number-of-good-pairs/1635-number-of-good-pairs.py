@@ -10,7 +10,6 @@ class Solution(object):
                 if nums[i]==nums[j]:
                     good_pair+=1
         return good_pair
-               
 
 
         
