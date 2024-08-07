@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aswanthaswnk/LeetHub/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/aswanthaswnk/LeetHub/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/aswanthaswnk/LeetHub/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/aswanthaswnk/LeetHub/tree/master/0066-plus-one) |
@@ -28,6 +29,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/aswanthaswnk/LeetHub/tree/master/0001-two-sum) |
 | [0229-majority-element-ii](https://github.com/aswanthaswnk/LeetHub/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/aswanthaswnk/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [1635-number-of-good-pairs](https://github.com/aswanthaswnk/LeetHub/tree/master/1635-number-of-good-pairs) |
