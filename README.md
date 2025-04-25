@@ -91,6 +91,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/aswanthaswnk/LeetHub/tree/master/0203-remove-linked-list-elements) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/aswanthaswnk/LeetHub/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -162,4 +163,8 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/aswanthaswnk/LeetHub/tree/master/0225-implement-stack-using-queues) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/aswanthaswnk/LeetHub/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
