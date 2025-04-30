@@ -167,4 +167,20 @@
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/aswanthaswnk/LeetHub/tree/master/0203-remove-linked-list-elements) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/aswanthaswnk/LeetHub/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/aswanthaswnk/LeetHub/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/aswanthaswnk/LeetHub/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/aswanthaswnk/LeetHub/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->
