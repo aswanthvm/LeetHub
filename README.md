@@ -12,6 +12,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aswanthaswnk/LeetHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/aswanthaswnk/LeetHub/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aswanthaswnk/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/aswanthaswnk/LeetHub/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aswanthaswnk/LeetHub/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/aswanthaswnk/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/aswanthaswnk/LeetHub/tree/master/0948-sort-an-array) |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/aswanthaswnk/LeetHub/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/aswanthaswnk/LeetHub/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aswanthaswnk/LeetHub/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/aswanthaswnk/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [1635-number-of-good-pairs](https://github.com/aswanthaswnk/LeetHub/tree/master/1635-number-of-good-pairs) |
@@ -47,6 +49,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aswanthaswnk/LeetHub/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aswanthaswnk/LeetHub/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/aswanthaswnk/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [1635-number-of-good-pairs](https://github.com/aswanthaswnk/LeetHub/tree/master/1635-number-of-good-pairs) |
@@ -85,6 +88,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aswanthaswnk/LeetHub/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aswanthaswnk/LeetHub/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/aswanthaswnk/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/aswanthaswnk/LeetHub/tree/master/0948-sort-an-array) |
@@ -101,6 +105,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/aswanthaswnk/LeetHub/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/aswanthaswnk/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0948-sort-an-array](https://github.com/aswanthaswnk/LeetHub/tree/master/0948-sort-an-array) |
 ## Heap (Priority Queue)
