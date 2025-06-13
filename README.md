@@ -15,6 +15,7 @@
 | [0169-majority-element](https://github.com/aswanthaswnk/LeetHub/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aswanthaswnk/LeetHub/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/aswanthaswnk/LeetHub/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/aswanthaswnk/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [0948-sort-an-array](https://github.com/aswanthaswnk/LeetHub/tree/master/0948-sort-an-array) |
 | [1635-number-of-good-pairs](https://github.com/aswanthaswnk/LeetHub/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/aswanthaswnk/LeetHub/tree/master/1791-richest-customer-wealth) |
@@ -35,6 +36,7 @@
 | [0169-majority-element](https://github.com/aswanthaswnk/LeetHub/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aswanthaswnk/LeetHub/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/aswanthaswnk/LeetHub/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/aswanthaswnk/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [1635-number-of-good-pairs](https://github.com/aswanthaswnk/LeetHub/tree/master/1635-number-of-good-pairs) |
 | [3412-permutation-difference-between-two-strings](https://github.com/aswanthaswnk/LeetHub/tree/master/3412-permutation-difference-between-two-strings) |
 ## Math
@@ -83,6 +85,7 @@
 | [0125-valid-palindrome](https://github.com/aswanthaswnk/LeetHub/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/aswanthaswnk/LeetHub/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aswanthaswnk/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/aswanthaswnk/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/aswanthaswnk/LeetHub/tree/master/0392-is-subsequence) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/aswanthaswnk/LeetHub/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Sorting
@@ -91,6 +94,7 @@
 | [0169-majority-element](https://github.com/aswanthaswnk/LeetHub/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/aswanthaswnk/LeetHub/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/aswanthaswnk/LeetHub/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/aswanthaswnk/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [0948-sort-an-array](https://github.com/aswanthaswnk/LeetHub/tree/master/0948-sort-an-array) |
 ## Recursion
 |  |
@@ -140,6 +144,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/aswanthaswnk/LeetHub/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aswanthaswnk/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0349-intersection-of-two-arrays](https://github.com/aswanthaswnk/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 ## Enumeration
 |  |
 | ------- |
