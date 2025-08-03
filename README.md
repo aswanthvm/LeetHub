@@ -18,6 +18,7 @@
 | [0229-majority-element-ii](https://github.com/aswanthaswnk/LeetHub/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/aswanthaswnk/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/aswanthaswnk/LeetHub/tree/master/0349-intersection-of-two-arrays) |
+| [0816-design-hashset](https://github.com/aswanthaswnk/LeetHub/tree/master/0816-design-hashset) |
 | [0948-sort-an-array](https://github.com/aswanthaswnk/LeetHub/tree/master/0948-sort-an-array) |
 | [1635-number-of-good-pairs](https://github.com/aswanthaswnk/LeetHub/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/aswanthaswnk/LeetHub/tree/master/1791-richest-customer-wealth) |
@@ -40,6 +41,7 @@
 | [0229-majority-element-ii](https://github.com/aswanthaswnk/LeetHub/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/aswanthaswnk/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/aswanthaswnk/LeetHub/tree/master/0349-intersection-of-two-arrays) |
+| [0816-design-hashset](https://github.com/aswanthaswnk/LeetHub/tree/master/0816-design-hashset) |
 | [1635-number-of-good-pairs](https://github.com/aswanthaswnk/LeetHub/tree/master/1635-number-of-good-pairs) |
 | [3412-permutation-difference-between-two-strings](https://github.com/aswanthaswnk/LeetHub/tree/master/3412-permutation-difference-between-two-strings) |
 ## Math
@@ -179,10 +181,12 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/aswanthaswnk/LeetHub/tree/master/0225-implement-stack-using-queues) |
+| [0816-design-hashset](https://github.com/aswanthaswnk/LeetHub/tree/master/0816-design-hashset) |
 ## Linked List
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/aswanthaswnk/LeetHub/tree/master/0203-remove-linked-list-elements) |
+| [0816-design-hashset](https://github.com/aswanthaswnk/LeetHub/tree/master/0816-design-hashset) |
 ## Tree
 |  |
 | ------- |
@@ -199,4 +203,8 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/aswanthaswnk/LeetHub/tree/master/0100-same-tree) |
+## Hash Function
+|  |
+| ------- |
+| [0816-design-hashset](https://github.com/aswanthaswnk/LeetHub/tree/master/0816-design-hashset) |
 <!---LeetCode Topics End-->
