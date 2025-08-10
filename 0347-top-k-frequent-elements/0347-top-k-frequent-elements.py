@@ -1,11 +1,16 @@
-class Solution(object):
-    def topKFrequent(self, nums, k):
-        """
-        :type nums: List[int]
-        :type k: int
-        :rtype: List[int]
-        """
-        counter = {}
+class Solution:
+    def topKFrequent(self, nums: List[int], k: int) -> List[int]:
+        ht={}
         for i in nums:
-            counter[i] = counter.get(i, 0) + 1
-        return sorted(counter, key=counter.get, reverse=True)[:k]
+            if i in ht:
+                ht[i]+=1
+            else:
+                ht[i]=1
+        sort_ht=dict(sorted(ht.items(), key=lambda item: item[1],reverse=True))
+        x=list(sort_ht.keys())
+        res=[]
+        for i in range(k):
+            res.append(x[i])
+        
+        return res  
+        
