@@ -9,7 +9,7 @@ class Solution:
 
         start = low
         end = high
-        pivot = arr[low + (high - low) // 2]  # A more robust way to find the middle index
+        pivot = arr[low + (high - low) // 2]
 
         while start <= end:
             while arr[start] < pivot:
