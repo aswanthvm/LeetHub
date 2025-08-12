@@ -1,11 +1,6 @@
-class Solution(object):
-    def searchInsert(self, nums, target):
-        """
-        :type nums: List[int]
-        :type target: int
-        :rtype: int
-        """
+class Solution:
+    def searchInsert(self, nums: List[int], target: int) -> int:
         for index, value in enumerate(nums):
-            if value >= target:
+            if value>=target:
                 return index
         return len(nums)
