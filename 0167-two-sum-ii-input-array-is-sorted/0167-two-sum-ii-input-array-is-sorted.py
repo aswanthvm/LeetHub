@@ -1,16 +1,15 @@
 class Solution:
     def twoSum(self, numbers: List[int], target: int) -> List[int]:
-        map ={}
+        left, right = 0, len(numbers) - 1
+        while left < right:
+            s = numbers[left] + numbers[right]
         
-        for i in range(len(numbers)):
-            
-            diff = target - numbers[i] 
-            if diff in map:
-                return [map[diff],i+1]
+            if s == target:
+                return [left + 1, right + 1]  # +1 for 1-based index
+            elif s < target:
+                left += 1
             else:
-                map[numbers[i]] = i+1
-        return   [map[diff],i+1]
-    
-    
+                right -= 1
+
 
         
