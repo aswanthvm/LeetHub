@@ -21,6 +21,7 @@
 | [0169-majority-element](https://github.com/aswanthaswnk/LeetHub/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/aswanthaswnk/LeetHub/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/aswanthaswnk/LeetHub/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/aswanthaswnk/LeetHub/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/aswanthaswnk/LeetHub/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/aswanthaswnk/LeetHub/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/aswanthaswnk/LeetHub/tree/master/0304-range-sum-query-2d-immutable) |
@@ -50,6 +51,7 @@
 | [0169-majority-element](https://github.com/aswanthaswnk/LeetHub/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/aswanthaswnk/LeetHub/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/aswanthaswnk/LeetHub/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/aswanthaswnk/LeetHub/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/aswanthaswnk/LeetHub/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/aswanthaswnk/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/aswanthaswnk/LeetHub/tree/master/0349-intersection-of-two-arrays) |
@@ -252,4 +254,8 @@
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/aswanthaswnk/LeetHub/tree/master/0238-product-of-array-except-self) |
 | [0304-range-sum-query-2d-immutable](https://github.com/aswanthaswnk/LeetHub/tree/master/0304-range-sum-query-2d-immutable) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/aswanthaswnk/LeetHub/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
