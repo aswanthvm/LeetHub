@@ -223,10 +223,12 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/aswanthaswnk/LeetHub/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/aswanthaswnk/LeetHub/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/aswanthaswnk/LeetHub/tree/master/0225-implement-stack-using-queues) |
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/aswanthaswnk/LeetHub/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/aswanthaswnk/LeetHub/tree/master/0225-implement-stack-using-queues) |
 | [0304-range-sum-query-2d-immutable](https://github.com/aswanthaswnk/LeetHub/tree/master/0304-range-sum-query-2d-immutable) |
 | [0816-design-hashset](https://github.com/aswanthaswnk/LeetHub/tree/master/0816-design-hashset) |
