@@ -55,6 +55,7 @@
 | [0217-contains-duplicate](https://github.com/aswanthaswnk/LeetHub/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/aswanthaswnk/LeetHub/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/aswanthaswnk/LeetHub/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/aswanthaswnk/LeetHub/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/aswanthaswnk/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/aswanthaswnk/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/aswanthaswnk/LeetHub/tree/master/0424-longest-repeating-character-replacement) |
@@ -95,6 +96,7 @@
 | [0067-add-binary](https://github.com/aswanthaswnk/LeetHub/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/aswanthaswnk/LeetHub/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/aswanthaswnk/LeetHub/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/aswanthaswnk/LeetHub/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/aswanthaswnk/LeetHub/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/aswanthaswnk/LeetHub/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/aswanthaswnk/LeetHub/tree/master/0412-fizz-buzz) |
@@ -147,6 +149,7 @@
 | [0169-majority-element](https://github.com/aswanthaswnk/LeetHub/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/aswanthaswnk/LeetHub/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/aswanthaswnk/LeetHub/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/aswanthaswnk/LeetHub/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/aswanthaswnk/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/aswanthaswnk/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [0948-sort-an-array](https://github.com/aswanthaswnk/LeetHub/tree/master/0948-sort-an-array) |
