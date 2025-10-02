@@ -14,6 +14,7 @@
 | [0035-search-insert-position](https://github.com/aswanthaswnk/LeetHub/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/aswanthaswnk/LeetHub/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/aswanthaswnk/LeetHub/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/aswanthaswnk/LeetHub/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/aswanthaswnk/LeetHub/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/aswanthaswnk/LeetHub/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aswanthaswnk/LeetHub/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -50,6 +51,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/aswanthaswnk/LeetHub/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/aswanthaswnk/LeetHub/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/aswanthaswnk/LeetHub/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/aswanthaswnk/LeetHub/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/aswanthaswnk/LeetHub/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/aswanthaswnk/LeetHub/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/aswanthaswnk/LeetHub/tree/master/0217-contains-duplicate) |
@@ -186,6 +188,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/aswanthaswnk/LeetHub/tree/master/0073-set-matrix-zeroes) |
 | [0304-range-sum-query-2d-immutable](https://github.com/aswanthaswnk/LeetHub/tree/master/0304-range-sum-query-2d-immutable) |
 | [1791-richest-customer-wealth](https://github.com/aswanthaswnk/LeetHub/tree/master/1791-richest-customer-wealth) |
 ## Greedy
