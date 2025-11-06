@@ -83,6 +83,7 @@
 | [1635-number-of-good-pairs](https://github.com/aswanthaswnk/LeetHub/tree/master/1635-number-of-good-pairs) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/aswanthaswnk/LeetHub/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2383-add-two-integers](https://github.com/aswanthaswnk/LeetHub/tree/master/2383-add-two-integers) |
+| [2491-smallest-even-multiple](https://github.com/aswanthaswnk/LeetHub/tree/master/2491-smallest-even-multiple) |
 ## Counting
 |  |
 | ------- |
@@ -294,4 +295,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/aswanthaswnk/LeetHub/tree/master/0014-longest-common-prefix) |
+## Number Theory
+|  |
+| ------- |
+| [2491-smallest-even-multiple](https://github.com/aswanthaswnk/LeetHub/tree/master/2491-smallest-even-multiple) |
 <!---LeetCode Topics End-->
