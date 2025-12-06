@@ -41,6 +41,7 @@
 | [2058-concatenation-of-array](https://github.com/aswanthaswnk/LeetHub/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/aswanthaswnk/LeetHub/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/aswanthaswnk/LeetHub/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/aswanthaswnk/LeetHub/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3469-maximum-height-of-a-triangle](https://github.com/aswanthaswnk/LeetHub/tree/master/3469-maximum-height-of-a-triangle) |
 ## Bit Manipulation
 |  |
@@ -83,6 +84,7 @@
 | [1635-number-of-good-pairs](https://github.com/aswanthaswnk/LeetHub/tree/master/1635-number-of-good-pairs) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/aswanthaswnk/LeetHub/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2383-add-two-integers](https://github.com/aswanthaswnk/LeetHub/tree/master/2383-add-two-integers) |
+| [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/aswanthaswnk/LeetHub/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2491-smallest-even-multiple](https://github.com/aswanthaswnk/LeetHub/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/aswanthaswnk/LeetHub/tree/master/2556-convert-the-temperature) |
 ## Counting
