@@ -87,6 +87,7 @@
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/aswanthaswnk/LeetHub/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2491-smallest-even-multiple](https://github.com/aswanthaswnk/LeetHub/tree/master/2491-smallest-even-multiple) |
 | [2556-convert-the-temperature](https://github.com/aswanthaswnk/LeetHub/tree/master/2556-convert-the-temperature) |
+| [3099-harshad-number](https://github.com/aswanthaswnk/LeetHub/tree/master/3099-harshad-number) |
 ## Counting
 |  |
 | ------- |
