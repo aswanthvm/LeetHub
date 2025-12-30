@@ -40,6 +40,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/aswanthaswnk/LeetHub/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/aswanthaswnk/LeetHub/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/aswanthaswnk/LeetHub/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/aswanthaswnk/LeetHub/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/aswanthaswnk/LeetHub/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/aswanthaswnk/LeetHub/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3469-maximum-height-of-a-triangle](https://github.com/aswanthaswnk/LeetHub/tree/master/3469-maximum-height-of-a-triangle) |
@@ -69,6 +70,7 @@
 | [0816-design-hashset](https://github.com/aswanthaswnk/LeetHub/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/aswanthaswnk/LeetHub/tree/master/0817-design-hashmap) |
 | [1635-number-of-good-pairs](https://github.com/aswanthaswnk/LeetHub/tree/master/1635-number-of-good-pairs) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/aswanthaswnk/LeetHub/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [3412-permutation-difference-between-two-strings](https://github.com/aswanthaswnk/LeetHub/tree/master/3412-permutation-difference-between-two-strings) |
 ## Math
 |  |
@@ -130,6 +132,7 @@
 | [1951-find-the-winner-of-the-circular-game](https://github.com/aswanthaswnk/LeetHub/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/aswanthaswnk/LeetHub/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/aswanthaswnk/LeetHub/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/aswanthaswnk/LeetHub/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Two Pointers
 |  |
 | ------- |
@@ -170,6 +173,7 @@
 | [0347-top-k-frequent-elements](https://github.com/aswanthaswnk/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/aswanthaswnk/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [0948-sort-an-array](https://github.com/aswanthaswnk/LeetHub/tree/master/0948-sort-an-array) |
+| [2154-keep-multiplying-found-values-by-two](https://github.com/aswanthaswnk/LeetHub/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Recursion
 |  |
 | ------- |
