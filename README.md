@@ -33,6 +33,7 @@
 | [0347-top-k-frequent-elements](https://github.com/aswanthaswnk/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/aswanthaswnk/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [0735-asteroid-collision](https://github.com/aswanthaswnk/LeetHub/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/aswanthaswnk/LeetHub/tree/master/0739-daily-temperatures) |
 | [0816-design-hashset](https://github.com/aswanthaswnk/LeetHub/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/aswanthaswnk/LeetHub/tree/master/0817-design-hashmap) |
 | [0948-sort-an-array](https://github.com/aswanthaswnk/LeetHub/tree/master/0948-sort-an-array) |
@@ -260,6 +261,7 @@
 | [0225-implement-stack-using-queues](https://github.com/aswanthaswnk/LeetHub/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/aswanthaswnk/LeetHub/tree/master/0232-implement-queue-using-stacks) |
 | [0735-asteroid-collision](https://github.com/aswanthaswnk/LeetHub/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/aswanthaswnk/LeetHub/tree/master/0739-daily-temperatures) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/aswanthaswnk/LeetHub/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
@@ -317,4 +319,8 @@
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/aswanthaswnk/LeetHub/tree/master/2491-smallest-even-multiple) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/aswanthaswnk/LeetHub/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
