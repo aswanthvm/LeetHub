@@ -32,6 +32,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/aswanthaswnk/LeetHub/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/aswanthaswnk/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/aswanthaswnk/LeetHub/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/aswanthaswnk/LeetHub/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0735-asteroid-collision](https://github.com/aswanthaswnk/LeetHub/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/aswanthaswnk/LeetHub/tree/master/0739-daily-temperatures) |
 | [0816-design-hashset](https://github.com/aswanthaswnk/LeetHub/tree/master/0816-design-hashset) |
@@ -68,6 +69,7 @@
 | [0347-top-k-frequent-elements](https://github.com/aswanthaswnk/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/aswanthaswnk/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [0424-longest-repeating-character-replacement](https://github.com/aswanthaswnk/LeetHub/tree/master/0424-longest-repeating-character-replacement) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/aswanthaswnk/LeetHub/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0567-permutation-in-string](https://github.com/aswanthaswnk/LeetHub/tree/master/0567-permutation-in-string) |
 | [0816-design-hashset](https://github.com/aswanthaswnk/LeetHub/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/aswanthaswnk/LeetHub/tree/master/0817-design-hashmap) |
@@ -175,6 +177,7 @@
 | [0242-valid-anagram](https://github.com/aswanthaswnk/LeetHub/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/aswanthaswnk/LeetHub/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/aswanthaswnk/LeetHub/tree/master/0349-intersection-of-two-arrays) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/aswanthaswnk/LeetHub/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0948-sort-an-array](https://github.com/aswanthaswnk/LeetHub/tree/master/0948-sort-an-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/aswanthaswnk/LeetHub/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Recursion
