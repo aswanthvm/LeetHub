@@ -12,6 +12,7 @@
 | [0018-4sum](https://github.com/aswanthaswnk/LeetHub/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/aswanthaswnk/LeetHub/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/aswanthaswnk/LeetHub/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/aswanthaswnk/LeetHub/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/aswanthaswnk/LeetHub/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/aswanthaswnk/LeetHub/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/aswanthaswnk/LeetHub/tree/master/0053-maximum-subarray) |
@@ -237,6 +238,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/aswanthaswnk/LeetHub/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/aswanthaswnk/LeetHub/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/aswanthaswnk/LeetHub/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aswanthaswnk/LeetHub/tree/master/0153-find-minimum-in-rotated-sorted-array) |
