@@ -40,6 +40,7 @@
 | [0817-design-hashmap](https://github.com/aswanthaswnk/LeetHub/tree/master/0817-design-hashmap) |
 | [0875-koko-eating-bananas](https://github.com/aswanthaswnk/LeetHub/tree/master/0875-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/aswanthaswnk/LeetHub/tree/master/0948-sort-an-array) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/aswanthaswnk/LeetHub/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1635-number-of-good-pairs](https://github.com/aswanthaswnk/LeetHub/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/aswanthaswnk/LeetHub/tree/master/1791-richest-customer-wealth) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/aswanthaswnk/LeetHub/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -240,6 +241,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aswanthaswnk/LeetHub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/aswanthaswnk/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [0875-koko-eating-bananas](https://github.com/aswanthaswnk/LeetHub/tree/master/0875-koko-eating-bananas) |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/aswanthaswnk/LeetHub/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 ## Enumeration
 |  |
 | ------- |
