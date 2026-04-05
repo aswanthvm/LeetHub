@@ -254,6 +254,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/aswanthaswnk/LeetHub/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/aswanthaswnk/LeetHub/tree/master/0572-subtree-of-another-tree) |
 ## Merge Sort
 |  |
 | ------- |
@@ -296,10 +297,12 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/aswanthaswnk/LeetHub/tree/master/0100-same-tree) |
+| [0572-subtree-of-another-tree](https://github.com/aswanthaswnk/LeetHub/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/aswanthaswnk/LeetHub/tree/master/0100-same-tree) |
+| [0572-subtree-of-another-tree](https://github.com/aswanthaswnk/LeetHub/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -308,9 +311,11 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/aswanthaswnk/LeetHub/tree/master/0100-same-tree) |
+| [0572-subtree-of-another-tree](https://github.com/aswanthaswnk/LeetHub/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
 | ------- |
+| [0572-subtree-of-another-tree](https://github.com/aswanthaswnk/LeetHub/tree/master/0572-subtree-of-another-tree) |
 | [0816-design-hashset](https://github.com/aswanthaswnk/LeetHub/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/aswanthaswnk/LeetHub/tree/master/0817-design-hashmap) |
 ## Prefix Sum
