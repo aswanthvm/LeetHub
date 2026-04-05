@@ -297,22 +297,26 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/aswanthaswnk/LeetHub/tree/master/0100-same-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/aswanthaswnk/LeetHub/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aswanthaswnk/LeetHub/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/aswanthaswnk/LeetHub/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/aswanthaswnk/LeetHub/tree/master/0100-same-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/aswanthaswnk/LeetHub/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aswanthaswnk/LeetHub/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/aswanthaswnk/LeetHub/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/aswanthaswnk/LeetHub/tree/master/0100-same-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/aswanthaswnk/LeetHub/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/aswanthaswnk/LeetHub/tree/master/0100-same-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/aswanthaswnk/LeetHub/tree/master/0199-binary-tree-right-side-view) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aswanthaswnk/LeetHub/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/aswanthaswnk/LeetHub/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
