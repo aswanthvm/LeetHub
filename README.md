@@ -297,11 +297,13 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/aswanthaswnk/LeetHub/tree/master/0100-same-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aswanthaswnk/LeetHub/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/aswanthaswnk/LeetHub/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/aswanthaswnk/LeetHub/tree/master/0100-same-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aswanthaswnk/LeetHub/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/aswanthaswnk/LeetHub/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
@@ -311,6 +313,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/aswanthaswnk/LeetHub/tree/master/0100-same-tree) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aswanthaswnk/LeetHub/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0572-subtree-of-another-tree](https://github.com/aswanthaswnk/LeetHub/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -342,4 +345,8 @@
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/aswanthaswnk/LeetHub/tree/master/0739-daily-temperatures) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aswanthaswnk/LeetHub/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
