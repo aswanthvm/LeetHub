@@ -6,4 +6,4 @@ class Solution:
             if key not in groups:
                 groups[key] = []
             groups[key].append(word)
-        return(list(groups.values()))
+        return list(groups.values())
