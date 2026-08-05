@@ -42,6 +42,7 @@
 | [0817-design-hashmap](https://github.com/aswanthaswnk/LeetHub/tree/master/0817-design-hashmap) |
 | [0875-koko-eating-bananas](https://github.com/aswanthaswnk/LeetHub/tree/master/0875-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/aswanthaswnk/LeetHub/tree/master/0948-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/aswanthaswnk/LeetHub/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aswanthaswnk/LeetHub/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1635-number-of-good-pairs](https://github.com/aswanthaswnk/LeetHub/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/aswanthaswnk/LeetHub/tree/master/1791-richest-customer-wealth) |
@@ -165,6 +166,7 @@
 | [0392-is-subsequence](https://github.com/aswanthaswnk/LeetHub/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/aswanthaswnk/LeetHub/tree/master/0567-permutation-in-string) |
 | [0680-valid-palindrome-ii](https://github.com/aswanthaswnk/LeetHub/tree/master/0680-valid-palindrome-ii) |
+| [0977-squares-of-a-sorted-array](https://github.com/aswanthaswnk/LeetHub/tree/master/0977-squares-of-a-sorted-array) |
 | [1894-merge-strings-alternately](https://github.com/aswanthaswnk/LeetHub/tree/master/1894-merge-strings-alternately) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/aswanthaswnk/LeetHub/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Sorting
@@ -184,6 +186,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/aswanthaswnk/LeetHub/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/aswanthaswnk/LeetHub/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0948-sort-an-array](https://github.com/aswanthaswnk/LeetHub/tree/master/0948-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/aswanthaswnk/LeetHub/tree/master/0977-squares-of-a-sorted-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/aswanthaswnk/LeetHub/tree/master/2154-keep-multiplying-found-values-by-two) |
 ## Recursion
 |  |
