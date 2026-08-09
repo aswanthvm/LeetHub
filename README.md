@@ -44,6 +44,7 @@
 | [0948-sort-an-array](https://github.com/aswanthaswnk/LeetHub/tree/master/0948-sort-an-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/aswanthaswnk/LeetHub/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/aswanthaswnk/LeetHub/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/aswanthaswnk/LeetHub/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1635-number-of-good-pairs](https://github.com/aswanthaswnk/LeetHub/tree/master/1635-number-of-good-pairs) |
 | [1791-richest-customer-wealth](https://github.com/aswanthaswnk/LeetHub/tree/master/1791-richest-customer-wealth) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/aswanthaswnk/LeetHub/tree/master/1951-find-the-winner-of-the-circular-game) |
